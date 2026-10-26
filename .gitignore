@@ -1,0 +1,39 @@
+# Keep private vaults out. Only sample notes and the README belong here.
+*.md
+!README.md
+!Example Vault/**/*.md
+*.canvas
+*.base
+.obsidian/
+!Example Vault/.obsidian/
+!Example Vault/.obsidian/app.json
+.trash/
+vaults/
+Vaults/
+private/
+backups/
+
+# Secrets and machine settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials*.json
+secrets*.json
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+
+# Python and run output
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.log
+*.tmp
+.pytest_cache/
+dist/
+build/

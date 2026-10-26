@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Vault Dashboard</title>
+  <desc id="desc">Your notes. One clear view. Tasks, projects, and connected notes on your computer.</desc>
+  <rect width="1280" height="340" rx="20" fill="#181a20"/>
+  <path d="M0 306H1280M894 0V340" stroke="#2d3039"/>
+  <rect x="54" y="48" width="48" height="48" rx="12" fill="#3478df"/>
+  <path d="M66 62H74V70H66ZM80 62H88V70H80ZM66 76H74V84H66ZM80 76H88V84H80Z" fill="#fff"/>
+  <text x="119" y="79" fill="#d7dbe5" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">VAULT DASHBOARD</text>
+  <text x="52" y="162" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="700">Your notes.</text>
+  <text x="52" y="222" fill="#8ab8ff" font-family="Arial,Helvetica,sans-serif" font-size="53" font-weight="700">One clear view.</text>
+  <text x="55" y="271" fill="#a9afbd" font-family="Arial,Helvetica,sans-serif" font-size="20">Tasks, projects, and ideas — on your computer.</text>
+  <g transform="translate(945 44)">
+    <rect width="280" height="250" rx="12" fill="#22252d" stroke="#363b48"/>
+    <rect x="18" y="20" width="111" height="7" rx="3" fill="#a8b5ce"/>
+    <rect x="18" y="45" width="73" height="44" rx="6" fill="#303641"/>
+    <rect x="102" y="45" width="73" height="44" rx="6" fill="#303641"/>
+    <rect x="186" y="45" width="76" height="44" rx="6" fill="#303641"/>
+    <text x="32" y="74" fill="#d9e6ff" font-family="Arial,Helvetica,sans-serif" font-size="20">12</text>
+    <text x="118" y="74" fill="#d9e6ff" font-family="Arial,Helvetica,sans-serif" font-size="20">16</text>
+    <text x="204" y="74" fill="#d9e6ff" font-family="Arial,Helvetica,sans-serif" font-size="20">3</text>
+    <g fill="none" stroke="#8ab8ff" stroke-width="2">
+      <rect x="19" y="113" width="12" height="12" rx="3"/>
+      <rect x="19" y="144" width="12" height="12" rx="3"/>
+      <rect x="19" y="175" width="12" height="12" rx="3"/>
+    </g>
+    <g fill="#6f7b91">
+      <rect x="43" y="116" width="99" height="6" rx="3"/>
+      <rect x="43" y="147" width="78" height="6" rx="3"/>
+      <rect x="43" y="178" width="90" height="6" rx="3"/>
+    </g>
+    <path d="M184 128L239 148L205 192L184 128L173 202L239 148" fill="none" stroke="#536581" stroke-width="2"/>
+    <g fill="#8ab8ff"><circle cx="184" cy="128" r="5"/><circle cx="239" cy="148" r="5"/><circle cx="205" cy="192" r="5"/><circle cx="173" cy="202" r="5"/></g>
+    <rect x="18" y="220" width="244" height="5" rx="2.5" fill="#343e4e"/>
+    <rect x="18" y="220" width="146" height="5" rx="2.5" fill="#488deb"/>
+  </g>
+</svg>
